@@ -17,11 +17,9 @@
     <img align="center" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   </div>
 
-  ##
-
-  <div align="center">
-    <a href="https://www.linkedin.com/in/isaac-david-83b0021ab" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><br>
-
-     ![Snake animation](https://github.com/isaacdavidcodding/isaacdavidcodding/blob/output/github-contribution-grid-snake.svg)
-  </div>  
+  ##  
+  
+  <a href="https://www.linkedin.com/in/isaac-david-83b0021ab" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><br>
 </div>
+
+![Snake animation](https://github.com/isaacdavidcodding/isaacdavidcodding/blob/output/github-contribution-grid-snake.svg)
